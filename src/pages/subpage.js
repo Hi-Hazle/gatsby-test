@@ -1,9 +1,11 @@
+import * as React from "react"
 const SubPage = () => {
    return (
-      <main>
-         <h1>SubPageSubPageSubPage</h1>
-      </main>
+      <div>
+         <h1>sssssssss</h1>
+      </div>
    )
 }
 
 export default SubPage
+export const Head = () => <title>SubPage</title>
